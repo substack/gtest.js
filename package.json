@@ -1,0 +1,30 @@
+{
+    "name" : "gtest",
+    "version" : "0.0.0",
+    "description" : "g-test algorithm to compute statistical significance",
+    "main" : "index.js",
+    "directories" : {
+        "lib" : ".",
+        "example" : "example",
+        "test" : "test"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/substack/gtest.js.git"
+    },
+    "keywords" : [
+        "g-test",
+        "significance",
+        "statistics",
+        "distribution",
+        "probability",
+        "mathematics"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT/X11",
+    "engine" : { "node" : ">=0.4" }
+}
