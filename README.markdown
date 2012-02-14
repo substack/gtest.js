@@ -7,7 +7,7 @@ example
 =======
 
 ``` js
-var gtest = require('../');
+var gtest = require('gtest');
 var chi = require('chi-squared');
 
 var g = gtest({ yes : 15, no : 65 }, { yes : 38, no : 82 });
